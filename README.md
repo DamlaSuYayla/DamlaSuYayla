@@ -12,7 +12,6 @@ My background in Management Information Systems means I start from the business 
 
 | Project | What it does | Highlights |
 | :--- | :--- | :--- |
-| **Hybrid Edge–Cloud VQA Assistant** | Answers visually impaired users' questions about photos | Fine-tuned Qwen2.5-VL (3B) with QLoRA: **+9.9 accuracy**, **+8.4 answerability F1** over zero-shot; on-device image-quality gate; **< 1.5 s** response time |
 | [**Real-Time Product Identification**](https://github.com/DamlaSuYayla/Real-Time-Product-Identification-and-Interactive-Q-A) | Fully offline barcode detection and voice Q&A for visually impaired shoppers | YOLOv8-Nano, pruning, FP16/INT8 benchmarking, SQLite, text-to-speech |
 | [**Dietary Microplastic Risk Classification**](https://github.com/DamlaSuYayla/dietary-microplastic-risk-classification) | Classifies microplastic exposure risk across 109 countries | K-Means risk tiers, SMOTE, Random Forest / XGBoost, temporal validation, SHAP |
 | [**PDF Summarizer**](https://github.com/DamlaSuYayla/PDF_Summarizer) | Summarises long PDFs and reads them aloud | Fine-tuned LED transformer, ROUGE / BLEU / BERTScore, Gradio app |
