@@ -1,4 +1,4 @@
-# Hi, I'm Damla 👋
+# Hi, I'm Damla Su 👋
 
 **Data Science & AI MSc graduate** based in London, UK. I build data and machine learning solutions end to end, from defining the problem to deploying the model, with a strong focus on rigorous baseline evaluation.
 
